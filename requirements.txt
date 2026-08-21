@@ -1,0 +1,12 @@
+flask
+python-dotenv
+requests
+authlib
+faiss-cpu
+pypdf
+python-docx
+python-pptx
+sentence-transformers
+reportlab
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
